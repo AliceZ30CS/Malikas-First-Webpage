@@ -1,0 +1,45 @@
+body {
+  background-color : rgb(255, 250, 202);
+  font-family : century-gothic;
+}
+h1 {
+  color: blue;
+  background-color : lightblue;
+}
+
+p.intro {
+  border : 2px dashed black;
+  padding : 5px;
+}
+h2 {
+  font-style : italic;
+  text-decoration : underline;
+}
+
+.gallery {
+   display: flex;
+   justify-content: center;
+   gap : 100px;
+}
+
+.gallery img {
+  height : 200px;
+  border : 5px ridge black;
+}
+
+#important {
+  color : red;
+}
+
+#par {
+  text-decoration : underline;
+}
+
+.center {
+  text-align :center ;
+}
+
+.center img {
+  width : 200px;
+  border : 5px ridge black;
+}

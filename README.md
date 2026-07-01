@@ -1,4 +1,4 @@
 # First-Webpage
-This is a web page about cats
+💻 Responsive Website Development (HTML & CSS)
 
 I am currently learning some web dev
